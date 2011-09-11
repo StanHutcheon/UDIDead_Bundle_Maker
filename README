@@ -1,0 +1,15 @@
+UDIDead Bundle Maker:
+A little program I made for people to use when another new beta comes out and we havent made a bundle yet.
+
+args:
+-b <firmware build>
+-f <firmware version>
+
+(optional:)
+
+-o <output directory>
+
+By all means, use the code, but if it involves anything to do with UDIDead, please give credit.
+
+Lots of love, 
+StanTheRipper.
