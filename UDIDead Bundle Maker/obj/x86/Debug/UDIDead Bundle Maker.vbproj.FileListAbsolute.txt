@@ -1,0 +1,11 @@
+C:\Users\Stan\documents\visual studio 2010\Projects\UDIDead Bundle Maker\UDIDead Bundle Maker\bin\Debug\UDIDead Bundle Maker.exe
+C:\Users\Stan\documents\visual studio 2010\Projects\UDIDead Bundle Maker\UDIDead Bundle Maker\bin\Debug\UDIDead Bundle Maker.pdb
+C:\Users\Stan\documents\visual studio 2010\Projects\UDIDead Bundle Maker\UDIDead Bundle Maker\bin\Debug\UDIDead Bundle Maker.xml
+C:\Users\Stan\documents\visual studio 2010\Projects\UDIDead Bundle Maker\UDIDead Bundle Maker\bin\Debug\Ionic.Zip.dll
+C:\Users\Stan\documents\visual studio 2010\Projects\UDIDead Bundle Maker\UDIDead Bundle Maker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stan\documents\visual studio 2010\Projects\UDIDead Bundle Maker\UDIDead Bundle Maker\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Stan\documents\visual studio 2010\Projects\UDIDead Bundle Maker\UDIDead Bundle Maker\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Stan\documents\visual studio 2010\Projects\UDIDead Bundle Maker\UDIDead Bundle Maker\obj\x86\Debug\UDIDead Bundle Maker.exe
+C:\Users\Stan\documents\visual studio 2010\Projects\UDIDead Bundle Maker\UDIDead Bundle Maker\obj\x86\Debug\UDIDead Bundle Maker.xml
+C:\Users\Stan\documents\visual studio 2010\Projects\UDIDead Bundle Maker\UDIDead Bundle Maker\obj\x86\Debug\UDIDead Bundle Maker.pdb
+C:\Users\Stan\documents\visual studio 2010\Projects\UDIDead Bundle Maker\UDIDead Bundle Maker\obj\x86\Debug\UDIDeadBundleMaker.Resources.resources
