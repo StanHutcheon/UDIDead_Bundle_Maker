@@ -1,5 +1,6 @@
 UDIDead Bundle Maker:
 A little program I made for people to use when another new beta comes out and we havent made a bundle yet.
+This requires Ionic.Zip
 
 args:
 -b <firmware build>
